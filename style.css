@@ -1,0 +1,46 @@
+body{
+    background: #333;
+    color: #fff;
+
+}
+.navbar{
+    border-bottom: blue 1px solid;
+
+}
+#home-section{
+    color: ;
+    background: url(imag/ok.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 900px;
+}
+#home-section .dark-overly{
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 900px;
+}
+#home-section .home-inner{
+    padding-top: 150px;
+}
+#home-section .card-form{
+    opacity: 0.8;
+}
+.fa{
+    color: #008ed6;
+    background-color: #fff;
+    padding: 4px;
+    border: 4px;
+    border-radius: 5px;
+    font-size: 30px;
+}
+#explore-section .fa{
+    color: #fff;
+    background: #333;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
+}
